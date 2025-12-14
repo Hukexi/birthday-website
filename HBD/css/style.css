@@ -49,7 +49,7 @@ body {
     letter-spacing: 3px;
 }
 
-/* 彩色气球 */
+/* Balloons */
 .balloon {
     position: absolute;
     width: 60px;
@@ -82,7 +82,7 @@ body {
     animation-delay: 4.5s;
 }
 
-/* 五彩纸屑 */
+/* Confetti */
 .confetti {
     position: absolute;
     width: 10px;
@@ -127,7 +127,7 @@ body {
     background: #00f2fe; 
 }
 
-/* 动画效果 */
+/* Animations */
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -199,7 +199,7 @@ body {
     }
 }
 
-/* 响应式设计 */
+/* Responsive */
 @media (max-width: 768px) {
     .photo-frame {
         width: 200px;
